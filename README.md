@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá 👋, eu sou o Alexandre
+
+Eu sou QA Analyst 
+🔭 Atualmente estou trabalhando na DB
+
+🌱 Atualmente estou aprendendo Automação de testes
+📫 Como me encontrar alexandrecgjunior@gmail.com
 
 <!--
 **alexandrecgjr/alexandrecgjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
