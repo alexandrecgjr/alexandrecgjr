@@ -1,22 +1,29 @@
-### Olá 👋, eu sou o Alexandre
+# Olá, eu sou o Alexandre 👋  
 
-Eu sou QA Analyst 
-🔭 Atualmente estou trabalhando na DB
+Sou **Analista de Qualidade (QA Analyst)** apaixonado por **qualidade de software**, **boas práticas de testes** e **automação**.  
+Atualmente trabalho na **DB** e busco constantemente evoluir minhas habilidades em automação de testes Web e API.  
 
-🌱 Atualmente estou aprendendo Automação de testes
-📫 Como me encontrar alexandrecgjunior@gmail.com
+---
 
-<!--
-**alexandrecgjr/alexandrecgjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 O que estou fazendo atualmente:
+- 🔭 Atuando em testes funcionais, garantindo a qualidade de sistemas complexos.
+- 🌱 Aprendendo e praticando **automação de testes** usando **Java**, **Python**, **Selenium WebDriver** e **JUnit**.
+- 📈 Explorando boas práticas de QA, CI/CD e metodologias ágeis.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias e Ferramentas:
+- **Linguagens:** Java, Python, JavaScript (básico)
+- **Testes:** Selenium WebDriver, JUnit, Postman  
+- **Versionamento:** Git & GitHub  
+- **Metodologias:** Kanban, Scrum  
+
+---
+
+## 📫 Como me encontrar:
+- **Email:** [alexandrecgjunior@gmail.com](mailto:alexandrecgjunior@gmail.com)
+- **LinkedIn:** [linkedin.com/in/alexandre-carlos-gomes-junior](https://www.linkedin.com/in/alexandre-carlos-gomes-junior)  
+
+---
+
+ 
