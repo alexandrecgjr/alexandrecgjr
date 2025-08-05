@@ -1,6 +1,6 @@
 # Olá, eu sou o Alexandre 👋  
 
-💻 Sou **Analista de Qualidade (QA Analyst)** a 3 anos e meio, apaixonado por **qualidade de software**, **boas práticas de testes** e **automação**.  
+💻 Sou **Analista de Qualidade (QA Analyst)** há 3 anos e meio, apaixonado por **qualidade de software**, **boas práticas de testes** e **automação**.  
 Atualmente trabalho na **DB** e busco constantemente evoluir minhas habilidades em automação de testes.  
 🎓 Estudando Análise e Desenvolvimento de Sistemas
 
