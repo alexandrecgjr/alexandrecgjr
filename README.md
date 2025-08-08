@@ -36,7 +36,7 @@ Atualmente trabalho na **DB** e busco constantemente evoluir minhas habilidades 
 
 ## 📫 Como me encontrar:
 - **Email:** [alexandrecgjunior@gmail.com](mailto:alexandrecgjunior@gmail.com)
-- **LinkedIn:** [linkedin.com/in/alexandre-carlos-gomes-junior](https://www.linkedin.com/in/alexandre-carlos-gomes-junior)  
+- **LinkedIn:** [linkedin.com/in/alexandrecgjr](https://www.linkedin.com/in/alexandrecgjr/)  
 
 ---
 
